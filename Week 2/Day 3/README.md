@@ -7,7 +7,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,11 +28,6 @@ Users should be able to:
 
 #### Mobile Design
 ![](./screenshot-mobile.png)
-
-### Links
-
-- Solution URL: [My Solution](https://github.com/shashikantdev3/FrontendMentor-clipboard-landing-page-master)
-- Live Site URL: [Live Preview](https://shashikantdev3.github.io/FrontendMentor-clipboard-landing-page-master/)
 
 ## My process
 
