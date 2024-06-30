@@ -11,3 +11,6 @@ Hi, I'm Ali Haider, currently enrolled in the Bytewise MERN Fellowship. This rep
 | Task-05     | Week-02 (Day-01)    | Mastering CSS Grid and Flexbox        | ✅ Done       | [See Task](./Week%202/Day%201) |
 | Task-06     | Week-02 (Day-02)    | Creating a Responsive Website         | ✅ Done       | [See Task](./Week%202/Day%202) |
 | Task-07     | Week-02 (Day-03)    | Landing Page Website                  | ✅ Done       | [See Task](./Week%202/Day%203)   |
+| Task-08     | Week-03 (Day-01)    | Learn SASS                            | ✅ Done       | [See Task](./Week%2003/Day%201)   |
+| Task-09     | Week-03 (Day-2+3)   | Tailwind Project                      | ✅ Done       | [See Task](./Week%2003/Day%202%20%2B%203)   |
+| Task-10     | Week-03 (Day-4+5)   | Responsive Website using Tailwind CSS | ✅ Done       | [See Task](./Week%2003/Day%204%20%2B%205) |
