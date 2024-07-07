@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Listeners</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #2c3e50;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        #main-heading {
+            margin-bottom: 20px;
+        }
+        .container {
+            display: flex;
+            justify-content: space-around;
+            width: 80%;
+        }
+        .boxes {
+            border: 1px solid white;
+            padding: 20px;
+            text-align: center;
+            width: 150px;
+            height: 200px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .boxes button {
+            padding: 10px;
+            border: 1px solid white;
+            background-color: transparent;
+            color: white;
+            cursor: pointer;
+        }
+        .boxes button:hover {
+            background-color: white;
+            color: #2c3e50;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="main-heading">Event Listeners</h1>
+    <div class="container">
+        <div class="boxes box-1">
+            <h1 id="heading">Example 1</h1>
+            <button onclick="alert('I loev javascript')">Enter</button>
+        </div>
+        <div class="boxes box-2">
+            <h1 id="heading">Example 2</h1>
+            <button class="btn-2">Enter</button>
+        </div>
+        <div class="boxes box-3">
+            <h1 id="heading">Example 3</h1>
+            <button class="btn-3">Enter</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
