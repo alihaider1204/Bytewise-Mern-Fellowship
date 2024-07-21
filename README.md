@@ -21,4 +21,6 @@ Hi, I'm Ali Haider, currently enrolled in the Bytewise MERN Fellowship. This rep
 | Task-15     | Week-05 (Day-1+2+3) | Task Tracker App                      | ✅ Done       | [See Task](./Week%205/Day%201%2B2%2B3/react-task-tracker) |
 | Task-16     | Week-05 (Day-04)    | Node JS                               | ✅ Done       | [See Task](./Week%205/Day%204) |
 | Task-17     | Week-05 (Day-05)    | FrontendMentor React Challenge        | ✅ Done       | [See Task](./Week%205/Day%205/Advice%20Generator%20Challenge) |
+| Task-18     | Week-06 (Day-1-5)    | Goal App                             | ✅ Done       | [See Task](./Week%206/Goal%20App) |
+
 
